@@ -1,6 +1,6 @@
 # Code of Ethics
 
-## M0DUL0 SEC
+## M0DUL0
 
 **Effective Date:** [fill in]
 **Applies To:** All M0DUL0 members, contributors, and participants across all channels, repositories, events, and activities.
