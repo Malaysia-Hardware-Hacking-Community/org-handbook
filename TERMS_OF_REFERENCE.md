@@ -1,6 +1,6 @@
 # Terms of Reference (ToR)
 
-## M0DUL0 SEC
+## M0DUL0
 
 **Effective Date:** [fill in]
 **Applies To:** All M0DUL0 channels, programmes, documents, events, and related activities.
