@@ -65,10 +65,8 @@ Once you're in, Discord's onboarding flow walks you through self-assigning your 
 - Reproducible writeups and source integrity.
 - Professional conduct and community safety.
 
-## Contributing and Reporting
+## Contributing
 
 - Contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)
-- Community report template: [.github/ISSUE_TEMPLATE/community-report.md](.github/ISSUE_TEMPLATE/community-report.md)
-- Pull request template: [.github/pull_request_template.md](.github/pull_request_template.md)
 
 If you are unsure whether an activity is appropriate, do not proceed and ask a Volunteer or Core Founding Team member first.
