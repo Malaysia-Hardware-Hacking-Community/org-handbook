@@ -1,9 +1,9 @@
 # Terms of Reference (ToR)
 
-## M0DUL0
+## MHHC
 
 **Effective Date:** [fill in]
-**Applies To:** All M0DUL0 channels, programmes, documents, events, and related activities.
+**Applies To:** All MHHC channels, programmes, documents, events, and related activities.
 
 ## 1. Purpose and Scope
 
@@ -74,7 +74,7 @@ This is M0DUL0's working structure as an independent community. As the community
 
 ## 6. Legal and Ethical Framework
 
-M0DUL0 is strictly a learning community for education, ethical research, and lawful skill development. M0DUL0 is not an operational tasking body and does not authorise testing of devices, networks, or systems without the owner's permission.
+Malaysia Hardware Hacking Community (MHHC) is strictly a learning community for education, ethical research, and lawful skill development. M0DUL0 is not an operational tasking body and does not authorise testing of devices, networks, or systems without the owner's permission.
 
 Members remain individually responsible for complying with relevant Malaysian law, including:
 
